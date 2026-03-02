@@ -1,5 +1,4 @@
 # Linear Regression
----
 
 Books
 1. Weisberg, S. (2013). Applied Linear Regression. Germany: Wiley
